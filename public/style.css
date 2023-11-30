@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+#main {
+  text-align: center;
+  color: #333;
+}
+
+.title {
+  font-size: 3em;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.sub-title {
+  font-size: 2em;
+  margin-top: 5px;
+}
+
+.welcome {
+  font-size: 1.5em;
+  color: #777;
+}
+
+p {
+  font-size: 1.2em;
+  margin: 15px 0;
+}
+
+.visit-message {
+  font-size: 1.1em;
+  color: #555;
+}
+
+.link {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
